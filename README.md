@@ -1,5 +1,5 @@
 ## 项目名称
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/uuyuyu/CJYM.git)
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/wgdbuakem/vhurmaf.git)
 
 ### heroku上部署Xray
 - [x] 支持VMess和VLESS两种协议
